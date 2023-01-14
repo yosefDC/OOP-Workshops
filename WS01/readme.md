@@ -1,5 +1,5 @@
 # Workshop #1: Modules   
- (V1.0)
+ (V0.9) Submissions are not active yet
 
 In process of doing your first workshop, in the ***lab*** (part 1) you are to sub-divide a program into modules, compile each module separately and construct an executable from the results of each compilation. In ***DIY*** (part 2) you are to write a modular program based on your knowledge of ipc144 subject and what you learnt up to now in C++. 
 

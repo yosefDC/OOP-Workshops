@@ -1,5 +1,5 @@
 # Workshop #1: Modules   
- - (V1.1) DIY sort is changed to be sorted on stno ascending instead of GPA<br >
+ - (V1.1) DIY sort is changed to be sorted on stno (ascending) instead of GPA<br >
     > If you have already successfully submitted the DIY using GPA sort, you do not need to resubmit your work; the first submission is valid
 
 In process of doing your first workshop, in the ***lab*** (part 1) you are to sub-divide a program into modules, compile each module separately and construct an executable from the results of each compilation. In ***DIY*** (part 2) you are to write a modular program based on your knowledge of ipc144 subject and what you learnt up to now in C++. 
@@ -326,7 +326,7 @@ This function returns false if the filename can not be opened for reading, other
 !
 ```
 ### V1.1 
-> sort the output based on student number (stno) in ascending order instead GPA
+> sort the output based on student number (stno) in ascending order instead of GPA
 
 Using the above data The function should work as follows:  
 

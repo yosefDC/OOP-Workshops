@@ -145,7 +145,7 @@ In addition to holding the customer records in an dynamically allocated array of
 ## Data file  
 Here is a sample of the data csv file in the following format:<br />
 ```Text
-dayofweek, user_id, dayofyear, timeinhours, dayofyear, Fwifitime, Fctime, Package_Name<NEWLINE>
+dayofweek, user_id, timeinhours, dayofyear, Fwifitime, Fctime, Package_Name<NEWLINE>
 ```
 ```Text
 T	2	0.030551111	121	1989	 107995	  com.android.chrome

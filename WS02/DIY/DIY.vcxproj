@@ -127,9 +127,6 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <Text Include="correct output.txt" />
-  </ItemGroup>
-  <ItemGroup>
     <ClCompile Include="Customer.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="Tools.cpp" />
@@ -137,6 +134,9 @@
   <ItemGroup>
     <ClInclude Include="Customer.h" />
     <ClInclude Include="Tools.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="correct_output.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

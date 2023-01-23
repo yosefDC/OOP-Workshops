@@ -1,5 +1,5 @@
 # Workshop #2: Dynamic Memory
-* Version v1.0
+* Version v1.1 (content of `correct_output.txt`  corrected)
 
 In this workshop, you will use *references* to modify content of variables in other scopes, overload functions and allocate memory at run-time and deallocate that memory when it is no longer required. 
 

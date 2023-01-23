@@ -249,7 +249,6 @@ Please do not modify the main Module.
 
 ### Files to submit:  
 ```Text
-main.h
 main.cpp
 Package.h
 Package.cpp
